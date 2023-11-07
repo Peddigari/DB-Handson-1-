@@ -1,0 +1,1 @@
+Q1.Create a database , give it name like "Human_Resource". Create a collection inside this named "employee"
